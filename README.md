@@ -1,4 +1,4 @@
-# 👩‍💻 Olá, eu sou a Júlia Coelho!
+# Olá, eu sou a Júlia Coelho!
 
 **Olá! Me chamo Júlia Coelho** e estou cursando **Análise e Desenvolvimento de Sistemas**. Desde que tive meu primeiro contato com o desenvolvimento Front-End, descobri uma verdadeira paixão por criar experiências digitais que sejam bonitas, funcionais e pensadas para quem está do outro lado da tela.
 
