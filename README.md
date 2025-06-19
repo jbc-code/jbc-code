@@ -24,5 +24,5 @@ Aqui no meu GitHub você encontra projetos práticos onde aplico meus conhecimen
 ## 📫 Vamos nos conectar?
 
 - [LinkedIn](https://www.linkedin.com/in/júlia-coelho-11b00721b/)
-- jujuh.bruno@gmail.com
+- juliacoelhoetp@gmail.com
 
